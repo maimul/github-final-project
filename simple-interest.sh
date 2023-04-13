@@ -5,7 +5,8 @@
 # Do not use this in production, Sample purpose only.
 
 # Author: Upkar Lidder (IBM)
-# Author: maimul
+# Additional Authors:
+# maimul
 
 # Output:
 # simple intereest = p*t*r
